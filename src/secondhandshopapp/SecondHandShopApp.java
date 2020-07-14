@@ -5,12 +5,6 @@
  */
 package secondhandshopapp;
 
-
-import file.SecondHandShopFile;
-import gui.SecondHandShopFrom;
-import model.SecondHandShop;
-import model.User;
-
 /**
  *
  * @author Jesus Larez
